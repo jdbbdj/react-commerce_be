@@ -1,0 +1,18 @@
+npm install express mongoose dotenv crypto-js jsonwebtoken
+
+express => nodejs framework restapi
+mongoose=> mongodb(collections documents CRUD)
+dotenv => to hide secret keys so that nobody canreach them for STRAPI secret key to avoid
+robot to add additional charges
+nodemon=>
+cryptoJS=>hashing and dehashing password using AES
+Jsonwebtoken=>to provide a token after authentication for their different server requests
+
+npm install cors
+
+mongodb+srv://<username>:<password>@cluster0.dcowx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+daryltest1
+Kd14zgWnXaabwCgM
+dbname: shop
+Libraries:
+
